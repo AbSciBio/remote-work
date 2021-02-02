@@ -1,2 +1,7 @@
-# remote-work
-A brief guide to making remote work
+# Remote Work
+
+## Making Remote Work
+
+## Meeting Etiquette
+
+## Communication tools
