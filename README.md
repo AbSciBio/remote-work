@@ -1,13 +1,12 @@
-# Remote Work
+# Remote Work Overview
 
 ## Making Remote Work
 
 ### Establish a Remote Leadership Team
 
-Organize a team of people who have experience working remotely to communicate
-remote work best practices and answer questions for others. This team should
-Document best practices and develop strategies to resolve challenges. This team
-has the authority to establish company best practices and identify directly
+Organize a team of people with experience working remotely to communicate remote
+work best practices and answer questions for others. This team should have the
+authority to establish and document company best practices and identify directly
 responsible individuals (DRIs) to find solutions.
 
 ### Leverage the Company Handbook
@@ -20,7 +19,7 @@ a central place to minimize confusion.
 ### Establish a Communications Strategy
 
 Transparency is key when transition to remote collaboration. Team members expect
-frequent updates as leaders iterate on their communication plan
+frequent updates as leaders iterate on their communication plan.
 
 ### Consolidate Communication Tools
 
@@ -47,11 +46,13 @@ collaboration when it's needed most.
 
 ### Zoom Whiteboard
 
-Leverage Zoom's whiteboard. Zoom's whiteboard is just as good as a conference
-room whiteboard and allows you to make collaborative annotations with remote
-colleagues. You can save a copy of your annotated whiteboard by exporting it to
-a PDF or image. These annotations can be added to shared notes (such as a shared
-Google Doc) for everyone to quickly reference.
+Leverage
+[Zoom's whiteboard](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard).
+Zoom's whiteboard is just as good as a conference room whiteboard and allows you
+to make collaborative annotations with remote colleagues. You can save a copy of
+your annotated whiteboard by exporting it to a PDF or image. These annotations
+can be added to shared notes (such as a shared Google Doc) for everyone to
+quickly reference.
 
 ### Video Conference Default
 
@@ -115,7 +116,7 @@ Zoom meeting that's always available for your team to jump in and out of at any
 time. This allows your team to quickly meet without going through the hassle of
 creating a meeting and inviting attendees.
 
-To create one with zoom:
+<summary><details>How to create a dedicated meeting space in Zoom</details>
 
 1. open your [AbSci Google Calendar](calendar.google.com)
 2. Add a new meeting and set it to repeat daily for an arbitrary date range
@@ -128,6 +129,8 @@ To create one with zoom:
    "Zoom Meeting"
 5. You now have a meeting that you can share with your team. The Zoom URL will
    remain the same so team members can bookmark the URL for quick access
+
+</summary>
 
 ### Use a Microphone
 
