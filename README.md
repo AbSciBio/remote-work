@@ -89,6 +89,23 @@ meeting up to date on the discussion and outcomes. Your team might also consider
 sharing all meeting notes to a google drive folder for improved organization and
 quick access.
 
+### Video Conference Recordings
+
+Video conference calls should be recorded as a default. This doesn't mean every
+meeting needs to be recorded (such as confidential or private discussions), but
+automatically recording conference calls helps promote a culture of
+documentation and transparency. These recordings can be shared with participants
+for their future reference. Links to meeting recordings should be included in
+the group's shared meeting notes.
+
+Zoom can be configured to automatically record meetings so you don't have to
+remember to do it each time. Zoom can also record meetings in the cloud and send
+you a recording link after the meeting. This makes it easy to share recordings
+and keeps you from having to manage video files yourself.
+[This screenshot](./images/zoom-recording-settings.png) can be used as a
+reference for how to configure your Zoom settings to automatically record
+meetings in the cloud.
+
 ## Communication
 
 <details><summary>Create a Team Meeting Space</summary>
