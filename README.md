@@ -10,12 +10,12 @@ Document best practices and develop strategies to resolve challenges. This team
 has the authority to establish company best practices and identify directly
 responsible individuals (DRIs) to find solutions.
 
-### Integrate Remote Work Policies in the Company Handbook
+### Leverage the Company Handbook
 
-This serves as a single source of truth for the entire company. One of the major
-challenges when going remote is keeping everyone informed in an efficient manor.
-Use this handbook to systematically document process changes in a central place
-to minimize confusion.
+The company handbook serves as a single source of truth for the entire company.
+One of the major challenges when going remote is keeping everyone informed in an
+efficient manor. Use this handbook to systematically document process changes in
+a central place to minimize confusion.
 
 ### Establish a Communications Strategy
 
