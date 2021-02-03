@@ -102,7 +102,7 @@ the group's shared meeting notes.
 You can configure Zoom to automatically record meetings so you don't have to
 remember to do it each time. Zoom can record meetings in the cloud and will send
 you a link to the recording after the meeting.
-[This screenshot](./images/zoom-recording-settings.png) shows you how to
+[This screenshot](./assets/images/zoom-recording-settings.png) shows you how to
 configure your Zoom settings for automatic cloud recording.
 
 ## Communication Tools & Techniques
@@ -136,3 +136,17 @@ idea to confirm your audio input source before before joining a conference call.
 See this
 [Zoom guide](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)
 on configuring your audio input.
+
+## More Resources
+
+Many of these ideas come from
+[GitLab's Remote Playbook](https://about.gitlab.com/resources/ebook-remote-playbook/).
+Download the eBook or see a copy [here](./assets/remote-playbook.pdf) to learn
+more about GitLab's approach to remote work.
+
+GitLab also provides a guide to
+[all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) which
+highlights their approach to remote work.
+
+[GitLab's Handbook](https://about.gitlab.com/handbook/) is a great reference for
+how their organization operates.
