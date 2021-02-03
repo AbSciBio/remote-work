@@ -116,7 +116,7 @@ Zoom meeting that's always available for your team to jump in and out of at any
 time. This allows your team to quickly meet without going through the hassle of
 creating a meeting and inviting attendees.
 
-<summary><details>How to create a dedicated meeting space in Zoom</details>
+<details><summary>How to create a dedicated meeting space in Zoom</summary>
 
 1. open your [AbSci Google Calendar](calendar.google.com)
 2. Add a new meeting and set it to repeat daily for an arbitrary date range
@@ -130,7 +130,7 @@ creating a meeting and inviting attendees.
 5. You now have a meeting that you can share with your team. The Zoom URL will
    remain the same so team members can bookmark the URL for quick access
 
-</summary>
+</details>
 
 ### Use a Microphone
 
