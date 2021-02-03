@@ -48,63 +48,62 @@ collaboration when it's needed most.
 ### Zoom Whiteboard
 
 Leverage Zoom's whiteboard. Zoom's whiteboard is just as good as a conference
-room whiteboard and allow you to make collaborative annotations with remote
-colleagues. Zoom's whiteboard also lets you export your annotations so you can
-easily share your ideas with your team.
+room whiteboard and allows you to make collaborative annotations with remote
+colleagues. You can save a copy of your annotated whiteboard by exporting it to
+a PDF or image. These annotations can be added to shared notes (such as a shared
+Google Doc) for everyone to quickly reference.
 
 ### Video Conference Default
 
-Always include remote colleagues in team meetings. When creating a meeting, add
-a conference video link (i.e. Zoom) as a default so all team members can
-participate, regardless of location. This has an added benefit of helping
-on-site colleagues that might need to change plans and work from home.
+Always include remote colleagues in team meetings. Add a conference video link
+(i.e. Zoom) as a default to your meetings so all team members can participate,
+regardless of location. This has the added benefit of helping on-site colleagues
+who might be working from home.
 
 ### Camera On Conferencing
 
-When conducting a meeting with on-site and remote employees, it's best to
-encourage all on-site colleagues to join the video conference from their laptops
-with their camera on and microphone muted. This may seem strange at first, but
-having all participants on the video call helps remote employees see all meeting
-participants and feel like equal participants. It also helps remote colleagues
-keep track of who's speaking which might not be as clear with a single
-conference room video camera.
+When conducting a meeting with on-site and remote employees, encourage all
+on-site colleagues to join the video conference from their laptops with their
+camera on and microphone muted. This may seem strange at first, but having all
+participants on video helps remote employees see all meeting participants and
+feel like equal participants. This also helps remote colleagues keep track of
+who's speaking during the meeting.
 
 ### Meeting Agendas & Notes
 
-Meeting organizers should include a shared Google Doc with the meeting invite.
-The shared document should include a meeting agenda to communicate the purpose
-and expectations of participants. An agenda helps participants prepare for a
-meeting and ensures everyone knows the meeting's objectives. It also helps to
-include the shared document in the meeting invite so all participants know where
-to find meeting notes.
+Meeting organizers should include an agenda with the meeting invite. The agenda
+is often a shared Google Doc that all participants can edit during the
+discussion. Including the link in the meeting invite makes it easy to find when
+you need it.
 
 The shared Google Doc should be used to document the discussion, decisions, and
 actions made during the meeting. This doc should be editable by all participants
 so participants can collaborate on notes and reference a single source of truth.
 Annotations made to a Zoom whiteboard can be exported from Zoom and added to the
-document along with any other relevant assets or resources. This may feel like
-extra work at first, but such documentation minimizes miscommunication and
-establishes transparent collaboration. This also helps people who can't join the
-meeting up to date on the discussion and outcomes. Your team might also consider
-sharing all meeting notes to a google drive folder for improved organization and
-quick access.
+document along with any other relevant assets or resources.
+
+This may feel like extra work at first, but this documentation minimizes
+miscommunication and establishes a source of truth for future reference. This
+also helps people who miss the meeting keep up to date on the discussion and
+outcomes.
+
+Your team might consider sharing all meeting notes to a shared Google Drive
+folder for improved organization and reference.
 
 ### Video Conference Recordings
 
-Video conference calls should be recorded as a default. This doesn't mean every
+Video conference calls should be recorded by default. This doesn't mean every
 meeting needs to be recorded (such as confidential or private discussions), but
 automatically recording conference calls helps promote a culture of
 documentation and transparency. These recordings can be shared with participants
 for their future reference. Links to meeting recordings should be included in
 the group's shared meeting notes.
 
-Zoom can be configured to automatically record meetings so you don't have to
-remember to do it each time. Zoom can also record meetings in the cloud and send
-you a recording link after the meeting. This makes it easy to share recordings
-and keeps you from having to manage video files yourself.
-[This screenshot](./images/zoom-recording-settings.png) can be used as a
-reference for how to configure your Zoom settings to automatically record
-meetings in the cloud.
+You can configure Zoom to automatically record meetings so you don't have to
+remember to do it each time. Zoom can record meetings in the cloud and will send
+you a link to the recording after the meeting.
+[This screenshot](./images/zoom-recording-settings.png) shows you how to
+configure your Zoom settings for automatic cloud recording.
 
 ## Communication Tools & Techniques
 
@@ -135,5 +134,5 @@ To create one with zoom:
 Use a headset with a microphone when talking in a noisy environment. It's a good
 idea to confirm your audio input source before before joining a conference call.
 See this
-[page on Zoom](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)
-about configuring your audio input.
+[Zoom guide](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)
+on configuring your audio input.
