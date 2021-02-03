@@ -69,6 +69,26 @@ participants and feel like equal participants. It also helps remote colleagues
 keep track of who's speaking which might not be as clear with a single
 conference room video camera.
 
+### Meeting Agendas & Notes
+
+Meeting organizers should include a shared Google Doc with the meeting invite.
+The shared document should include a meeting agenda to communicate the purpose
+and expectations of participants. An agenda helps participants prepare for a
+meeting and ensures everyone knows the meeting's objectives. It also helps to
+include the shared document in the meeting invite so all participants know where
+to find meeting notes.
+
+The shared Google Doc should be used to document the discussion, decisions, and
+actions made during the meeting. This doc should be editable by all participants
+so participants can collaborate on notes and reference a single source of truth.
+Annotations made to a Zoom whiteboard can be exported from Zoom and added to the
+document along with any other relevant assets or resources. This may feel like
+extra work at first, but such documentation minimizes miscommunication and
+establishes transparent collaboration. This also helps people who can't join the
+meeting up to date on the discussion and outcomes. Your team might also consider
+sharing all meeting notes to a google drive folder for improved organization and
+quick access.
+
 ## Communication
 
 <details><summary>Create a Team Meeting Space</summary>
