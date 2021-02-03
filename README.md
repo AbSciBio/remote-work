@@ -33,7 +33,7 @@ confusion around tool choice.
 The transition to remote is a process and takes time. Leaders need to embrace
 iteration, establish communication around what is and isn't working, and
 communicate messaging to all employees. Managing a remote company is like
-managing any company——it comes down to trust, communication, and company-wide
+managing any company—it comes down to trust, communication, and company-wide
 support of shared goals.
 
 ## Meeting Etiquette
