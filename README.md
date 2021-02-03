@@ -106,10 +106,10 @@ and keeps you from having to manage video files yourself.
 reference for how to configure your Zoom settings to automatically record
 meetings in the cloud.
 
-## Communication
+## Communication Tools & Techniques
 
-<details><summary>Create a Team Meeting Space</summary>
-  
+### Create a Team Meeting Space
+
 A team meeting space is dedicated, repeating meeting for your team to hold
 casual discussions and impromptu meetings. This can take the form of a dedicated
 Zoom meeting that's always available for your team to jump in and out of at any
@@ -130,4 +130,10 @@ To create one with zoom:
 5. You now have a meeting that you can share with your team. The Zoom URL will
    remain the same so team members can bookmark the URL for quick access
 
-</details>
+### Use a Microphone
+
+Use a headset with a microphone when talking in a noisy environment. It's a good
+idea to confirm your audio input source before before joining a conference call.
+See this
+[page on Zoom](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)
+about configuring your audio input.
