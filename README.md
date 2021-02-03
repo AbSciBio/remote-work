@@ -41,9 +41,9 @@ support of shared goals.
 ### Conference Rooms
 
 Conference rooms are a limited resource. Only reserve a conference room when
-it's required and immediately release reserved conference rooms if they're not
-needed. Reserving a conference room and not using it may prevent collaboration
-when it's needed most.
+it's required and immediately release reserved conference rooms if they're no
+longer needed. Reserving a conference room and not using it may prevent
+collaboration when it's needed most.
 
 ### Zoom Whiteboard
 
