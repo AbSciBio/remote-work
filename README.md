@@ -31,9 +31,8 @@ confusion around tool choice.
 
 The transition to remote is a process and takes time. Leaders need to embrace
 iteration, establish communication around what is and isn't working, and
-communicate messaging to all employees. Managing a remote company is like
-managing any company—it comes down to trust, communication, and company-wide
-support of shared goals.
+communicate messaging to all employees. Our success comes down to trust,
+communication, and company-wide support of shared goals.
 
 ## Meeting Etiquette
 
@@ -79,9 +78,9 @@ you need it.
 
 The shared Google Doc should be used to document the discussion, decisions, and
 actions made during the meeting. This doc should be editable by all participants
-so participants can collaborate on notes and reference a single source of truth.
-Annotations made to a Zoom whiteboard can be exported from Zoom and added to the
-document along with any other relevant assets or resources.
+so participants can collaborate on notes and refer to a single source of truth.
+Zoom's whiteboard can be exported and added to the document along with any other
+relevant assets or resources.
 
 This may feel like extra work at first, but this documentation minimizes
 miscommunication and establishes a source of truth for future reference. This
